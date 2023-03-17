@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1670965140 source:d:\тея-11Я\discret\labka_6\labka_6\graph.cpp
+	<iostream>
+	<string>
+	"graph.h"
+	"list.h"
+
+1670670621 d:\тея-11Я\discret\labka_6\labka_6\graph.h
+
+1670665868 d:\тея-11Я\discret\labka_6\labka_6\list.h
+
+1670918130 source:d:\тея-11Я\discret\labka_6\labka_6\list.cpp
+	<iostream>
+	"list.h"
+
+1671006807 source:d:\тея-11Я\discret\labka_6\labka_6\main.cpp
+	<iostream>
+	<conio.h>
+	"graph.h"
+

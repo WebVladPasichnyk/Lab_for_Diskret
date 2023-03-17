@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1670580055 source:d:\тея-11Я\discret\labka_4\list.cpp
+	"list.h"
+
+1670525074 d:\тея-11Я\discret\labka_4\list.h
+	<iostream>
+
+1670580125 source:d:\тея-11Я\discret\labka_4\main.cpp
+	"list.h"
+

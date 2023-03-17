@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1669374051 source:d:\тея-11Я\discret\lab3\lab_33\lab_33\comb.cpp
+	<iostream>
+	<cmath>
+
+1669374843 source:d:\тея-11Я\discret\lab3\lab_33\lab_33\main.cpp
+	<iostream>
+	"Comb.h"
+	<Windows.h>
+	<math.h>
+
+1669374023 d:\тея-11Я\discret\lab3\lab_33\lab_33\comb.h
+

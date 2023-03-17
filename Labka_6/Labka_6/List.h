@@ -1,0 +1,14 @@
+typedef int datatype;
+void recreate_stack();
+void recreate_queue();
+void add_stack(datatype);
+void del_stack();
+datatype show_stack();
+datatype give_stack();
+void show_full_stack();
+int size_stack();
+void add_queue(datatype);
+void del_queue();
+datatype show_queue();
+void show_full_queue();
+int size_queue();

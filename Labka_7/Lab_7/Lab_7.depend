@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1670960384 source:d:\тея-11Я\discret\labka_7\lab_7\list.cpp
+	"List.h"
+
+1670960425 d:\тея-11Я\discret\labka_7\lab_7\list.h
+	<iostream>
+
+1670960547 source:d:\тея-11Я\discret\labka_7\lab_7\floyd.cpp
+	"Floyd.h"
+	<iomanip>
+
+1670960467 d:\тея-11Я\discret\labka_7\lab_7\floyd.h
+	"List.h"
+
+1670960610 source:d:\тея-11Я\discret\labka_7\lab_7\main.cpp
+

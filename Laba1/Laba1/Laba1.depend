@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1665139558 source:d:\פוס-11ס\discret\laba1\laba1\main.cpp
+	<iostream>
+	"LogCon.h"
+
+1665139496 d:\פוס-11ס\discret\laba1\laba1\logcon.h
+
+1665741861 source:d:\פוס-11ס\discret\laba1\laba1\logcon.cpp
+
+1665734661 source:d:\ÔÅÑ-11ס\discret\laba1\laba1\logcon.cpp
+
+1665132358 source:d:\ÔÅÑ-11ס\discret\laba1\laba1\main.cpp
+	<iostream>
+	"LogCon.h"
+
+1665132296 d:\ÔÅÑ-11ס\discret\laba1\laba1\logcon.h
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1670667676 source:d:\тея-11Я\discret\labka_5\labka_5\main.cpp
+	<iostream>
+	<stack>
+	<string>
+	<map>
+	<set>
+	<bits/stdc++.h>
+
